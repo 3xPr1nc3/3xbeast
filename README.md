@@ -1,5 +1,5 @@
 # 3xbeast!
-## V1.0-0
+## V1.1-0
 ## Date: 10-09-2019
 For source code without encoding contact: ICQ 744324366<br><br>
 <img src="https://raw.githubusercontent.com/3xPr1nc3/3xbeast/master/beast.png" onmouseover=alert(0)>
